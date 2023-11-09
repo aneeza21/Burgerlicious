@@ -1,5 +1,5 @@
 #ITSE476 - PHASE 1
-# PROJECT TITLE
+#RESTURANT MANAGEMENT SYSTEM
 #Look around first
 #start from what you have
 #Good Name
