@@ -1,7 +1,7 @@
 # ITSE476 - PHASE 1
 # RESTURANT MANAGEMENT SYSTEM
 # Look around first
-# start from what you have
+# Start From what you have
 # Good Name
 # Project is free and open source
 # Features and Requirement list
