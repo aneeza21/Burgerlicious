@@ -1,8 +1,23 @@
 # ITSE476 - PHASE 1
 # But First, Look Around: List all project and their links
+
+Despite the existence of similar projects, our commitment to continuous enhancement and the systematic integration of innovative features distinguishes us on our planned trajectory. Our project's unique attributes and qualities set us apart, making us a superior choice in comparison to others in the same domain. Some of the similar search topics are listed below : 
+
 # Starting from What You Have
+
+Aneeza Burgers is meant to be an open source project that developers can contribute to and refine it to the best of out amenities. A part of this projects members had been working on it before state that this project is the continuation of ITSE305 project which implies that we have a layed out a plan which now needs implementation in a real world environment. The forthcoming improvements in the system will place a premium on refining and simplifying inventory procedures, fine-tuning marketing strategies, and enhancing the efficiency of food preparation processes, the objective of the new system is to enhance customer service by exceeding their expectations.
+
 # Choose a Good Name: write how you did that
+
+
 # State That the Project is Free
+
+The software will be open source, and it will be released under the GNU General Public License (GPL). There are multiple ways to enlighten everyone that this is an open source project
+- It will be clearly stated at the homepage of the website that this is an open source project.
+- Embedding a GitHub badge on the website to show the recent developments and on going repairs in the project.
+- License badge can be included on the homepage so no one lacks certainity of what the project is.
+
+
 # Features and Requirements List
 ## Features
 If you were seeking for a brief overview of the program, we would provide you with this list of the features and prerequisites.
