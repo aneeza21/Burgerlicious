@@ -103,10 +103,13 @@ Join our chat platform for real-time discussions, quick questions, and interacti
 
 Stay up-to-date with the latest news, announcements, and community activities by following the Restaurant Management System on social media.
 
-- **Twitter:** [Twitter Profile](https://twitter.com/Burgerlicious)
-- **Facebook:** [Facebook Page](https://www.facebook.com/Burgerlicious)
+- **Twitter:** [Twitter Profile](https://twitter.com/ Burgerlicious)
+- **Facebook:** [Facebook Page](https://www.facebook.com/ Burgerlicious)
 
 You can also contact us through email: Burgerlicious1999@gmail.com📩 
+
+
+ 
 
 # Developer Guidelines
 # Documentation
