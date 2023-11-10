@@ -17,6 +17,13 @@
 Hosting is the place where the project will be placed so that everyone can access it, so we will put our project in GitHub because it is an open source project and free so that everyone can access it from users and developers to give us feedback.
 
 # Codes of Conduct
+The Ruby code of conduct serves as the basis for the Aneeza's Burgers code of conduct. You can report any infractions of the code of conduct to AneezaBurgers1999@gmail.com.
+
+- Participants will accept different points of view.
+- Participants must make sure that none of their words or deeds constitute derogatory or personal attacks.
+- Participants should always presume the best intentions when interpreting the words and deeds of others.
+- Actions that could be construed as harassment will not be accepted.
+  
 # Announcing
 It is one of the most crucial tasks for our project, and it will appear on the cover page with a few keywords and a brief phrase. Since it is a course project, we won't be making the announcement to the public; instead, we will keep it confidential. 
 
