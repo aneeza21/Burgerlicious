@@ -42,6 +42,7 @@ If you were seeking a brief overview of the program, we would provide you with t
 * Tablets and smartphones are just a few of the devices that can be used to access the system.
 * Program for maintaining the database that houses user and restaurant information.
 * firewall and antivirus software to guarantee system security.
+* The system must be integrated with a payment gateway in order for online payments to function.
 # Development Status
  ACTIVE DEVELOPMENT ▶️ - middle of development of beta  <br>
 The project team of the restaurant management system is continually developing, testing, and fine-tuning features during the implementation phase. Alignment with project timeframes and objectives is ensured through regular meetings and progress tracking. The system has completed its basic design and first functionality using an iterative process, whereby each implemented function is released to the repository. Developers and other participants are welcome to join the ongoing project, which promotes teamwork for the system's complete implementation and continual enhancement based on insightful user input.
