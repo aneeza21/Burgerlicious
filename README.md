@@ -112,7 +112,49 @@ You can also contact us through email: Burgerlicious1999@gmail.com📩 
  
 
 # Developer Guidelines
+
+## Code Format
+- Use meaningful variable names and separate code blocks with a two-line margin.
+
+## Code Scope
+- Utilize default constructors for classes with default values.
+- Use the "final" keyword for constants.
+
+## Code Comments
+- Comment code to explain the purpose and intent, especially for cryptic or complex sections.
+
+## Readability
+- Maintain consistent indentation and avoid long lines.
+
+## Security
+- Consider security risks early in the project and research potential vulnerabilities.
+- Avoid relying solely on default configurations and prioritize secure practices.
+
+## Issue Tracker
+- Use the issue tracker for bug reports, feature requests, and pull requests.
+- Avoid duplicate comments and provide relevant information and context.
+
+## Feature Requests
+- Ensure your request aligns with the project's goals and provide sufficient information and justification.
+
+## Pull Requests
+- Coordinate with maintainers before starting significant pull requests.
+- Include clear intent and pull from the main branch by default.
+
+## Bug Reports
+- Provide a concise title and detailed description of the bug.
+- Include visual evidence, reproducible steps, environment details, console logs, and relevant URLs.
+- Indicate severity/priority and include reporter details.
+
+Please refer to the full guidelines for more detailed information. If you have any further questions, feel free to ask using any of the communication channels!
+
+
 # Documentation
+
+
+The documentation for the Burgerlicious Restaurant Management System project provides an initial overview of our progress and accomplishments, although it may not be complete yet. It aims to give readers insights into the tasks and responsibilities of our contributors. While the documentation is a work in progress, it serves as a starting point for understanding the project and its expected outcomes. It will be regularly updated and improved by our dedicated team of moderators and contributors. We appreciate feedback and suggestions to enhance the documentation. Thank you for your support and involvement in the Burgerlicious project!
+
+
 # Frequently Asked Questions (FAQ)
 
 ## General Questions
