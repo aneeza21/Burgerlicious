@@ -37,6 +37,11 @@ If you were seeking for a brief overview of the program, we would provide you wi
 * Secure sign-up, login, and account management for customers and restaurant staff.
 * Comprehensive reporting capabilities for analyzing sales, customer data, and overall performance
 ## Requirements 
+* Compatibility with major operating systems like iOS and Android. 
+* In order to create an account, users must input required fields such as name, email address, and password.
+* Tablets, and smartphones are just a few of the devices that can be used to access the system.
+* Program for maintaining the database that houses user and restaurant information.
+* firewall and antivirus software to guarantee system security.
 # Development Status
  ACTIVE DEVELOPMENT ▶️ - middle of development of beta  <br>
 The project team of the restaurant management system is continually developing, testing, and fine-tuning features during the implementation phase. Alignment with project timeframes and objectives is ensured through regular meetings and progress tracking. The system has completed its basic design and first functionality using an iterative process, whereby each implemented function is released to the repository. Developers and other participants are welcome to join the ongoing project, which promotes teamwork for the system's complete implementation and continual enhancement based on insightful user input.
