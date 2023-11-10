@@ -1,12 +1,42 @@
 # ITSE476 - PHASE 1
 # But First, Look Around: List all project and their links
-# Starting from What You Have: start from your 305 project
+# Starting from What You Have
 # Choose a Good Name: write how you did that
 # State That the Project is Free
 # Features and Requirements List
+## Features
+If you were seeking for a brief overview of the program, we would provide you with this list of the features and prerequisites.
+* Customers can browse the menu, place orders, and make reservations through the system.
+* Efficient tracking of tables and bookings for optimal seating and reduced wait times.
+* Multiple payment methods, including cash, credit cards, and digital wallets.
+* Reservation system for event planners, including details like buffet options and staff requirements.
+* It is accessible 24/7 from any location and device that supports ios and andriod etc.
+* Monitor employee hours, schedules, and performance for efficient staffing.
+* Tools for implementing marketing campaigns, loyalty programs, and social media promotions.
+* Generation of order tickets to streamline food preparation and service.
+* Secure sign-up, login, and account management for customers and restaurant staff.
+* Comprehensive reporting capabilities for analyzing sales, customer data, and overall performance
+## Requirements 
 # Development Status
+ ACTIVE DEVELOPMENT ▶️ - middle of development of beta  <br>
+The project team of the restaurant management system is continually developing, testing, and fine-tuning features during the implementation phase. Alignment with project timeframes and objectives is ensured through regular meetings and progress tracking. The system has completed its basic design and first functionality using an iterative process, whereby each implemented function is released to the repository. Developers and other participants are welcome to join the ongoing project, which promotes teamwork for the system's complete implementation and continual enhancement based on insightful user input.
 # Downloads
+# 📖 How to Download and Run the Project on Your Computer?
+Users can download the Restaurant Management System on both iOS and Android devices, providing them with the ease of using the application on the device of their choice. The application is easy to download and install, allowing users to enjoy seamless eating experiences and restaurant management.
+* Ensure your device is unlocked and connected to the internet.
+* Locate and tap on the "App Store" or "Google Play" icon on your device's home screen.
+* use the search bar to enter "Restaurant Management System" and press "Search."
+* Once the search results appear, find the "Restaurant Management System" app in the list.
+* Tap the "Download" or "Install" button.
+* The app will download and install on your device. Once completed, the app icon will appear on your home screen.
+* Tap the app icon to open the Restaurant Management System and start enjoying its features.
 # Version Control and Bug Tracker Access
+* For developers and consumers alike, version control and bug tracking software are essential resources. With the use of these platforms, developers may easily collaborate on project adjustments and additions by having access to the most recent source code in one central location. Developers have the ability to track revisions, submit changes, and keep a complete history of the project's development.
+
+* These tools are vital resources for users to look through project documents and keep up with new releases. Users may access the most recent iterations of the program thanks to version control, guaranteeing they take advantage of the newest additions, enhancements, and problem fixes. In addition, users can actively contribute to the project's enhancement process, track the resolution of issues, and report issues all at once using the Bug Tracker.
+
+* Fundamentally, platforms for version control and bug tracking establish a cooperative atmosphere that helps users and developers communicate, promotes ongoing enhancement, and guarantees a flexible, adaptable development process.
+
 # Communications Channels
 # Developer Guidelines
 # Documentation
