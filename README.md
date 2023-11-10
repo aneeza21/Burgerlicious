@@ -1,19 +1,20 @@
 # ITSE476 - PHASE 1
-# RESTURANT MANAGEMENT SYSTEM
-# Look around first
-# Start From what you have
-# Good Name
-# Project is free and open source
-# Features and Requirement list
+# But First, Look Around: List all project and their links
+# Starting from What You Have: start from your 305 project
+# Choose a Good Name: write how you did that
+# State That the Project is Free
+# Features and Requirements List
 # Development Status
-# Download
-# Documentation
-# Developer Documentation
-# Communication Channel
-# Version Control and bug tracker access
-## Version Control
-## Bug/Issue Tracker
+# Downloads
+# Version Control and Bug Tracker Access
+# Communications Channels
 # Developer Guidelines
-## General Guidelines
-## Technical Guidelines
+# Documentation
 # Maintaining a FAQ
+# Developer Documentation
+# Demos, Screenshots, Videos, and Example Output
+# Hosting
+# Codes of Conduct
+# Announcing
+
+
