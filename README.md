@@ -12,6 +12,8 @@
 # Documentation
 # Maintaining a FAQ
 # Developer Documentation
+It cannot be written by someone without programming skills; it is always written by the developer. Additionally, it is more social than technical and teaches other programmers how to work with code. Everything will be sorted and organised using wikis, and the design document contains the developer documentation.  
+
 # Demos, Screenshots, Videos, and Example Output
 # Hosting
 Hosting is the place where the project will be placed so that everyone can access it, so we will put our project in GitHub because it is an open source project and free so that everyone can access it from users and developers to give us feedback.
