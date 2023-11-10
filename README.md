@@ -128,7 +128,7 @@ It cannot be written by someone without programming skills; it is always written
 Hosting is the place where the project will be placed so that everyone can access it, so we will put our project in GitHub because it is an open-source project and free so that everyone can access it from users and developers to give us feedback.
 
 # Codes of Conduct
-The Ruby Code of Conduct serves as the basis for the Burgerlicious Code of Conduct. You can report any infractions of the code of conduct to Burgerlicious 1999@gmail.com.
+The Ruby Code of Conduct serves as the basis for the Burgerlicious Code of Conduct. You can report any infractions of the code of conduct to Burgerlicious1999@gmail.com.
 
 - Participants will accept different points of view.
 - Participants must make sure that none of their words or deeds constitute derogatory or personal attacks.
