@@ -9,6 +9,8 @@ Aneeza Burgers is meant to be an open source project that developers can contrib
 
 # Choose a Good Name: write how you did that
 
+Deciding a name for a project is one of the most critical initial aspects of a project as it is the name through which everyone will recognize this project. it should somewhat include what the project is about so the people looking at it can easily remember the functionality and features of the project itself. it should not collide with the name of an existing project as people can easily mistake either one for the other. A poll was created in the name selection process and the one with the most votes was selected.
+
 
 # State That the Project is Free
 
