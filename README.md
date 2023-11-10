@@ -18,5 +18,6 @@ Hosting is the place where the project will be placed so that everyone can acces
 
 # Codes of Conduct
 # Announcing
+It is one of the most crucial tasks for our project, and it will appear on the cover page with a few keywords and a brief phrase. Since it is a course project, we won't be making the announcement to the public; instead, we will keep it confidential. 
 
 
