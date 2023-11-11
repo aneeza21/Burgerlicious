@@ -48,7 +48,7 @@ If you were seeking a brief overview of the program, we would provide you with t
  ACTIVE DEVELOPMENT ▶️ - middle of development of beta  <br>
 The project team of the restaurant management system is continually developing, testing, and fine-tuning features during the implementation phase. Alignment with project timeframes and objectives is ensured through regular meetings and progress tracking. The system has completed its basic design and first functionality using an iterative process, whereby each implemented function is released to the repository. Developers and other participants are welcome to join the ongoing project, which promotes teamwork for the system's complete implementation and continual enhancement based on insightful user input.
 # Downloads
-# 📖 How to Download and Run the Project on Your Computer?
+# 📖 How to Download and Run the Project on Your Device?
 Users can download the Restaurant Management System on both iOS and Android devices, providing them with the ease of using the application on the device of their choice. The application is easy to download and install, allowing users to enjoy seamless eating experiences and restaurant management.
 * Ensure your device is unlocked and connected to the internet.
 * Locate and tap on the "App Store" or "Google Play" icon on your device's home screen.
